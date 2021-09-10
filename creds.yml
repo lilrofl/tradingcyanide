@@ -1,0 +1,12 @@
+# Ensure your keys and values have a space between them
+# Example:
+# Bad:
+#   access_key:myaccess_key
+# Good:
+#   access_key: myaccess_key 
+
+
+prod:
+  access_key: nMC3GvtjRsmFT4IF7Nuxk017ANx75xyMF0WfvmAoaGqaOjysH0QVwB9PdamYOJ3Q
+  secret_key: IeC0mnDrwBat60flX42w7JKqVkULB9RP0CwzZoFfdzQFmrXHUg356qUzMbkqVQCX
+
